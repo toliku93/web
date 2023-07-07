@@ -1,0 +1,8 @@
+{
+    "require-dev": {
+        "laravel/breeze": "^1.21"
+    },
+    "require": {
+        "livewire/livewire": "^2.12"
+    }
+}
